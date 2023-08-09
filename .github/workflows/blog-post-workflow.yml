@@ -15,4 +15,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://wiki.serval-informatique.fr/blog/rss.xml"
-          template: "<tr><td>$title</td><td>$description</td></tr>"
