@@ -8,6 +8,9 @@
 ## 🎦 Ces dernières vidéos sur Youtube
 
 <!-- YOUTUBE:START -->
+- [Effet de parallaxe &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=IR50hGqkZhA)
+- [Faire apparaitre et disparaitre un texte &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=w95sFmNZkEA)
+- [Créer un premier site web &lpar;HTML CSS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=fPizzKwahr4)
 <!-- YOUTUBE:END -->
 
 [▶️](https://www.youtube.com/@le-wiki-du-serval)
