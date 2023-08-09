@@ -15,8 +15,7 @@
 
 ## 📝 Ces derniers billets
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Créer un thème intéractif avec JavaScript et CSS</td><td>Comment créer un thème clair et un thème sombre rapidement sans avoir à charger deux feuilles de styles différentes ?</td></tr><!-- BLOG-POST-LIST:END -->
 
 [![website](./img/globe-light.svg)](https://wiki.serval-informatique.fr/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://wiki.serval-informatique.fr/#gh-dark-mode-only)
