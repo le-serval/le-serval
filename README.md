@@ -15,7 +15,9 @@
 ## 📝 Ces derniers billets
 
 <!-- BLOG-POST-LIST:START -->
-- [Créer un thème intéractif avec JavaScript et CSS](https://wiki.serval-informatique.fr/blog/mode-sombre-css-js)
+- [Effet de parallaxe &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=IR50hGqkZhA)
+- [Faire apparaitre et disparaitre un texte &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=w95sFmNZkEA)
+- [Créer un premier site web &lpar;HTML CSS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=fPizzKwahr4)
 <!-- BLOG-POST-LIST:END -->
 
 [🌐](https://wiki.serval-informatique.fr/)
