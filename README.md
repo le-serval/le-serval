@@ -18,6 +18,7 @@
 ## 📝 Ses derniers billets
 
 <!-- BLOG-POST-LIST:START -->
+- [Installer et utiliser la CLI de GitHub](https://wiki.serval-informatique.fr/blog/github-cli)
 - [Créer un thème intéractif avec JavaScript et CSS](https://wiki.serval-informatique.fr/blog/mode-sombre-css-js)
 <!-- BLOG-POST-LIST:END -->
 
