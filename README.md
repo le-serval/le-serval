@@ -18,8 +18,9 @@
 ## 📝 Ses derniers billets
 
 <!-- BLOG-POST-LIST:START -->
+- [Travailler avec Angular sans installer globalement la CLI](https://wiki.serval-informatique.fr/blog/angular-cli-non-global)
 - [Installer et utiliser la CLI de GitHub](https://wiki.serval-informatique.fr/blog/github-cli)
-- [Créer un thème intéractif avec JavaScript et CSS](https://wiki.serval-informatique.fr/blog/mode-sombre-css-js)
+- [Créer un thème interactif avec JavaScript et CSS](https://wiki.serval-informatique.fr/blog/mode-sombre-css-js)
 <!-- BLOG-POST-LIST:END -->
 
 [🌐](https://wiki.serval-informatique.fr/)
