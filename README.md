@@ -8,6 +8,7 @@
 ## 🎦 Ses dernières vidéos sur Youtube
 
 <!-- YOUTUBE:START -->
+- [Thème sombre et clair facilement avec JS](https://www.youtube.com/watch?v=ZSc5wpaz_RE)
 - [Travailler sur un projet Angular sans installer globalement la CLI](https://www.youtube.com/watch?v=TngPLbEPN-4)
 - [Effet de parallaxe &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=IR50hGqkZhA)
 - [Faire apparaitre et disparaitre un texte &lpar;HTML CSS JS&rpar; [tuto débutant]](https://www.youtube.com/watch?v=w95sFmNZkEA)
